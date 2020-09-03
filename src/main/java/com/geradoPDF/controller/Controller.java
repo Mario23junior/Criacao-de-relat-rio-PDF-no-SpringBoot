@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.geradoPDF.model.City;
 import com.geradoPDF.service.ICityService;
+import com.geradoPDF.utils.GeneratePdfReport;
 
 @RestController
  public class Controller {
